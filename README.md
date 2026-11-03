@@ -12,7 +12,7 @@
 
 ## 📥 Download
 
-** [⬇️ Download APK]()**
+**[⬇️ Download APK]()**
 
 📲 Requires Android 5.0 or newer.
 
