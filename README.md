@@ -12,7 +12,7 @@
 
 ## 📥 Download
 
-**[⬇️ Download APK]()**
+**[⬇️ Download APK](https://github.com/KSURitam/classic_nokia_snake_game/releases/tag/Apk)**
 
 📲 Requires Android 5.0 or newer.
 
